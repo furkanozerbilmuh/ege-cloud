@@ -1,6 +1,6 @@
 {
     "database": {
-		"host": "furkanozer364.postgres.database.azure.com"  
+		"host": "furkanozer364.postgres.database.azure.com",  
 		"hostname": "furkanozer364",
 		"dbname" : "postgres",
 		"password": "133_qwq",
