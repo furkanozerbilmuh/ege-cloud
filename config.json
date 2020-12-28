@@ -1,11 +1,11 @@
 {
     "database": {
 		  
-		  "host": "furkanozer364",
-		  "dbname" : "postgres",
-		  "password": "133_qwq",
-		  "user": "FO364",
-		  "ssl" : "require"
+		"host": "furkanozer364",
+		"dbname" : "postgres",
+		"password": "133_qwq",
+		"user": "FO364",
+		"ssl" : "require"
     }
 }
 
